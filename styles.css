@@ -192,3 +192,20 @@ button:hover{
     background-image: linear-gradient(hsl(252, 100%, 67%), hsl(241, 81%, 54%));
     cursor: pointer;
 }
+
+@media (max-width: 650px){
+
+    .main-wrapper{
+        flex-wrap: wrap;
+        width: 100%;
+        margin: 0;
+    }
+    .result-wrapper{
+        width: 100%;
+        border-radius: 0 0 15px 15px;
+    }
+
+    .summary-wrapper{
+        width: 100%;
+    }
+}
