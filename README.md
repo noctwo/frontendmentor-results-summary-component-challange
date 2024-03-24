@@ -14,13 +14,15 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Screenshot
 
 Desktop
+https://github.com/noctwo/frontendmentor-results-summary-component-challange/blob/main/frontendmentor-summarypage-challenge-desktop-screenshot-noctwo.png
 
 Mobile
+https://github.com/noctwo/frontendmentor-results-summary-component-challange/blob/main/frontendmentor-summarypage-challenge-mobile-screenshot-noctwo.png
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://noctwo.github.io/frontendmentor-results-summary-component-challange/
 
 
 ### Built with
